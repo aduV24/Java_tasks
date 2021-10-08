@@ -1,0 +1,4 @@
+The code asks to user to give answer to the subtraction of a random number between 1-10 from another random number between 1-10.
+This is done 5 times and each time the code displays "Wrong" or "Correct" depending on the user's input.
+
+The code outputs the question the user gets wrong and correct as well as the time required to complete the test.
